@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+}
+.clock{
+  background-color: black;
+  top: 50px;
+  left: 50px;
+  text-align: center;
+  font-size: 5rem;
+  border-radius: 10px;
+  font-family:'Orbitron', sans-serif;
+  color: cyan;
+  box-shadow: 1px 1px 50px;
+}
